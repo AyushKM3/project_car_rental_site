@@ -57,7 +57,7 @@ const Popular = () => {
             </div>
 
            <div className='flex justify-center items-center'>
-            <h1 data-aos='fade-up' data-aos-delay='1500' className='text-4xl my-10 font-extrabold text-amber-400'>
+            <h1 data-aos='fade-up' data-aos-delay='1500' className='text-4xl my-10 text-center font-extrabold text-amber-400'>
             Book Your Ride Today 
            </h1> 
            </div>

@@ -14,26 +14,26 @@ const ChooseUs = () => {
         <div
           data-aos="fade-up"
           data-aos-once="false"
-          className="card h-[450px]  sm:y-6 md:space-y-8 border-2 text-center border-white md:p-8 p-16 hover:border-amber-400 duration-500 cursor-pointer"
+          className="card h-[450px]  sm:y-6 md:space-y-8  text-center  md:p-8 p-16  cursor-pointer"
         >
           <div className="flex justify-center md:text-5xl text-6xl">
             <FaRupeeSign />
           </div>
           <div>
-            <h2 className="md:text-3xl text-2xl text-center font-semibold my-2 ">
+            <h2 className="md:text-3xl text-2xl text-center font-semibold my-1 ">
               Competitive Prices
             </h2>
           </div>
           <div>
             <p className="text-center">
-              We believe that quality service shouldn’t break the bank. Enjoy
+               Enjoy
               competitive pricing with no hidden fees, ensuring you get the best
               value for your money.
             </p>
           </div>
-          <div className="flex justify-center p-4 mb-4">
+          <div className="flex justify-center p-4 mb-3">
             <button
-              className="bg-blue-800 text-white md:p-3 p-2 font-bold sm:text-2xl text-xl hover:scale-125 duration-200 cursor-pointer rounded-md "
+              className="bg-blue-800 text-white md:p-3 p-2 font-bold sm:text-2xl text-lg hover:scale-125 duration-200 cursor-pointer rounded-md "
               data-aos="fade-up"
               data-aos-once="false"
               data-aos-delay="1000"
@@ -47,7 +47,7 @@ const ChooseUs = () => {
           data-aos="fade-up"
           data-aos-once="false"
           data-aos-delay="1000"
-          className=" card md:h-[450px]  border-2 border-white sm:y-6 md:space-y-8 md:p-8 p-16  hover:border-amber-300 duration-500 cursor-pointer"
+          className=" card md:h-[450px] sm:y-6 md:space-y-8 md:p-8 p-16   cursor-pointer"
         >
           <div className="flex justify-center md:text-5xl text-6xl">
             <FcCustomerSupport />
@@ -79,7 +79,7 @@ const ChooseUs = () => {
           data-aos="fade-up"
           data-aos-once="false"
           data-aos-delay="2000"
-          className="card md:h-[450px]  border-2 border-white sm:y-6 md:space-y-8 md:p-8 p-16  hover:border-amber-300 duration-500 cursor-pointer "
+          className="card md:h-[450px]   sm:y-6 md:space-y-8 md:p-8 p-16   duration-500 cursor-pointer "
         >
           <div className="flex justify-center md:text-5xl text-6xl">
             <FaCalendarTimes />
